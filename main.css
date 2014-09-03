@@ -1,1 +1,12 @@
 <link href="css/main.css" rel="stylesheet">
+
+h1 {
+}
+
+dt {
+    float: left;
+}
+
+dd {
+    float: left;
+}
